@@ -1,4 +1,4 @@
-# Basics-Unity3D
+# Basics in Unity3D
 Install Unity, and become familiar with...
 
 - Scripts and MonoBehaviors
